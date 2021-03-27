@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @alibektas
-- 👀 I’m interested in language , music , math and things that help me to combine them.
+👋 Hi, I’m @alibektas
+👀 I’m interested in language , music , math.
 - 🌱 I’m currently learning Statistical Learning , Computational Linguistics.
 - 📫 alibektas@lampandruler.com
 
