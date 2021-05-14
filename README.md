@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @alibektas
-- 👀 I’m interested in language , music , math.
-- 🌱 I’m currently learning Statistical Learning , Computational Linguistics.
 - 📫 alibektas [at] lampandruler [dot] com
 
 <!---
