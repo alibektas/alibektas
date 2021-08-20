@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alibektas
-- 📫 alibektas [at] lampandruler [dot] com
+- 📫 bektasali [at] protonmail [dot] com
 
 <!---
 alibektas/alibektas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
